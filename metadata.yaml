@@ -1,5 +1,8 @@
 _repo: Tumbling-river-range_70457
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70457-h/images/cover.jpg
 creator:
   author:
     agent_name: Tuttle, W. C. (Wilbur C.)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52836
     wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70457#Tumbling-river-range
 gutenberg_issued: '2023-04-03'
 identifiers:
   gutenberg: '70457'
